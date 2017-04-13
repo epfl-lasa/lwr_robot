@@ -3,8 +3,8 @@
 
   <xacro:include filename="$(find lwr_description)/model/kuka_lwr_arm.urdf.xacro"/>
   <!--xacro:include filename="$(find lwr_description)/model/gazebo.urdf.xacro"/-->
-      <xacro:include filename="$(find allegro_hand_description_nico)/models/common.urdf.xacro"/>
-          <xacro:include filename="$(find allegro_hand_description_nico)/models/hand.urdf.xacro"/>
+      <!--xacro:include filename="$(find allegro_hand_description_nico)/models/common.urdf.xacro"/-->
+          <!--xacro:include filename="$(find allegro_hand_description_nico)/models/hand.urdf.xacro"/-->
 
 
   <xacro:include filename="$(find lwr_description)/model/materials.xml"/>
